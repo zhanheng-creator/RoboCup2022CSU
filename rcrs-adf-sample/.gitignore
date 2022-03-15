@@ -1,0 +1,29 @@
+# Java
+*.class
+
+# Log files
+*.log
+hs_err_pid*
+
+# Gradle
+.gradle
+build
+bin
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
+
+# Eclipse project
+.settings
+.project
+.classpath
+
+# Visual Studio Code
+.vscode
+
+# Project
+precomp_data
+test-results

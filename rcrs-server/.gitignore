@@ -1,0 +1,41 @@
+# Java
+*.class
+
+# Log files
+*.log
+hs_err_pid*
+
+# Gradle
+.gradle
+build
+bin
+
+# IntelliJ project
+*.iml
+*.ipr
+*.iws
+.idea
+
+# Eclipse project
+.settings
+.project
+.classpath
+
+# Gradle
+.gradle
+
+# Visual Studio Code
+.vscode
+
+# Theia IDE
+.theia
+
+# General MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Project
+boot/logs
+boot/records
+jars
